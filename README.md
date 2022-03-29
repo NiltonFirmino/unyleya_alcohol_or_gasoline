@@ -1,4 +1,4 @@
-#App em React-Native de verificação de Alcool ou gasolina
+# App em React-Native de verificação de Alcool ou gasolina
 
 Atividade 3 da Unidade 2 de Desenvolvimento Multiplataforma com React Native
 
